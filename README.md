@@ -15,7 +15,7 @@ Cybersecurity Fundamentals: Network Security, Threat Detection, Incident Respons
 Operating Systems: Linux (Ubuntu, Kali), Windows
 Networking Concepts: TCP/IP, DNS, HTTP/HTTPS, SSH, Ports and Protocols
 Security Practices: Brute-force Simulation, PCAP Analysis, IDS/IPS Configuration
-- **Tools**:  Wireshark, Wazuh, PFSense, kali, Ubuntu
+- **Tools**:  Wireshark, Wazuh, PFSense.
 ###  GitHub Stats
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=Olofinbola&amp;show_icons=true&amp;theme=radical)
